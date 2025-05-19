@@ -1,5 +1,5 @@
 # Exp.No:19  
-## CLASS AND OBJECTS - AREA OF CIRCLE
+## CLASS AND OBJECTS - AREA OF CIRCLE 
 
 ---
 
@@ -26,18 +26,28 @@ To write a Python program to take the radius from the user and find the area of 
 ---
 
 ### PROGRAM
+### REG No: 212222220022
+### NAME : manikandan R
 
 ```
-
+class umbrella:
+      a=0
+      def find(self,a):
+          a=3.141592*a*a
+          print("Area of circle: {:.2f}".format(a))
+b=area()
+c=int(input())
+b.find(c)
 
 
 ```
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/d9b8210f-0206-4299-9411-d3b833fa06df)
+
 
 
 ### RESULT
 
-
-
+Thus ,the  Python program to take the radius from the user and find the area of a circle using the class name `umbrella` and function name `rain` is successfully done.
