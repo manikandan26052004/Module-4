@@ -30,11 +30,22 @@ To write a Python program that reads a file and counts the frequency of each cha
 ### PROGRAM
 
 ```
+### REG NO: 212223090002
+### NAME : DEEPAPRITHA A
+a=input()
+b=input()
+count=0
+for i in a:
+    if (i==b):
+        count+=1 
+print("Character "+b+" in the "+a+" is "+str(count)+" times")
 
 ```
 
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/ce16e6f3-2a57-44c0-8c91-990ba61a9458)
 
 
 ### RESULT
+Thus,the  Python program that reads a file and counts the frequency of each character in it is successfully verified.
